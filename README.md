@@ -232,7 +232,7 @@ appointments       ||--o{   payments            : billed via
 The ER diagram is included in this repository as:
 
  <p align="center">
-  <img src="Fitness_Influencer_Coaching_Platform.png" width="800"/>
+  <img src="Clinic Appointment and Diagnostics Platform.png" width="800"/>
 </p>
 
 
