@@ -229,4 +229,10 @@ appointments       ||--o{   payments            : billed via
 
 ---
 ## ER Diagram
+The ER diagram is included in this repository as:
+
+ <p align="center">
+  <img src="Fitness_Influencer_Coaching_Platform.png" width="800"/>
+</p>
+
 
